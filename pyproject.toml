@@ -2,7 +2,7 @@
 name = "ml_project_template"
 version = "0.1.0"
 description = ""
-authors = [""]
+authors = ["author"]
 packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
