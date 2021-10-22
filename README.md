@@ -1,5 +1,11 @@
-# Setup Project
+# Template
+Created this template to make machine learning projects more structured. 
+As a reference I based my template on the [cookiecutter-data-science structure](https://github.com/drivendata/cookiecutter-data-science).
 
+# Setup Project
+1. Install python-poetry (https://python-poetry.org/docs/#installation)
+2. Execute the setup.sh-file<br>
+`bash setup.sh`
 # Folder structure
 ```
 |-- data/                   
