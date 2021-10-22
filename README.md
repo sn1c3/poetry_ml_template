@@ -1,4 +1,5 @@
 # Folder structure
+```
 |-- data/                   
     |-- raw/                <-  The original, immutable data dump.
     |-- processed/          <-  The final, canonical data sets for modeling.
@@ -11,3 +12,4 @@
 |-- add-jupyter-venv.sh     <-  Adds virtualenv to ipykernel.
 |-- pyproject.toml          <-  Installs project and sets up environment.
 |-- .gitignore              <-  gitignore.
+```
