@@ -11,6 +11,7 @@ As a reference I based my template on the [cookiecutter-data-science structure](
 |-- data/                   
     |-- raw/                <-  The original, immutable data dump.
     |-- processed/          <-  The final, canonical data sets for modeling.
+|-- documentation/          <-  Textual documentation
 |-- notebooks/              <-  Trained and serialized models, model predictions, or model summaries
 |-- models/                 <-  Jupyter notebooks. Naming convention is a number (for ordering),
 │                               the creator's initials, and a short `-` delimited description, e.g.
